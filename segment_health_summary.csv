@@ -1,0 +1,4 @@
+engagement_level,usage_percentage,base_health_score,adjusted_health_score,health_status
+Medium,0.5,0.5,0.36731506460315205,Red
+Low,0.26285714285714284,0.2,0.14692602584126083,Red
+High,0.23714285714285716,0.8,0.5877041033650433,Yellow
